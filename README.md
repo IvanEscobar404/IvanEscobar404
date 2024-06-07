@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/adam-pithewan/](https://www.linkedin.com/in/ivan-escobar-9063432a0/)" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/ivan-escobar-9063432a0/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="[https://fb.com/adam pithen wala](https://www.facebook.com/yair.escobar.37)" target="blank"><img align="center"
