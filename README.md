@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Escobar Ivan</h1>
-<h3 align="center">UTN reconquista programming student🌟.</h3>
+<h3 align="center">Estudiante de programación UTN Reconquista🌟.</h3>
 
 
 
