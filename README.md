@@ -72,9 +72,9 @@
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
       src="https://cdn.worldvectorlogo.com/logos/flask.svg"
       alt="Flask" height="40" width="40" /></a>
-  <!-- <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
-      src="https://www.pngwing.com/en/free-png-cgbgg"
-      alt="React" height="40" width="40" /></a> -->
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
+      src="https://i.pinimg.com/564x/dd/59/fa/dd59fa7de174a7f73f993e7d73099f20.jpg"
+      alt="React" height="40" width="40" /></a>
 
 <br>    
 <h3 align="left">Depurador:</h3>
