@@ -60,6 +60,6 @@
 <h3 align="left">Herramientas:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="blank"><img align="center"
-      src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/072018/untitled-1_203.png?K2qqsu.gBACrZ4L1BJs55GlDRoTHK0bz&itok=lMwhIDaG)"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="GIT" height="30" width="40" /></a>
 
