@@ -70,7 +70,7 @@
       src="https://cdn.worldvectorlogo.com/logos/flask.svg"
       alt="Flask" height="40" width="40" /></a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
-      src="https://iili.io/H7ALWtR.jpg"
+      src="https://www.pngaaa.com/detail/2507896"
       alt="React" height="40" width="40" /></a>
 
 <br>    
