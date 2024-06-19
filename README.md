@@ -57,11 +57,14 @@
       </p>
 
 <br>
-<h3 align="left">Herramientas:</h3>
+<h3 align="left">Control de Versiones:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="blank"><img align="center"
       src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
       alt="GIT" height="40" width="40" /></a>
+  <a href="https://git-scm.com/" target="blank"><img align="center"
+      src="https://i.pinimg.com/564x/9f/2a/3d/9f2a3d2a77591992819af03a009751ed.jpg"
+      alt="Github" height="40" width="40" /></a>
 
 <br>
 <h3 align ="left">Frameworks:</h3>
