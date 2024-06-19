@@ -67,7 +67,7 @@
 <h3 align ="left">Frameworks:</h3>
 <p align="left">
   <a href="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://flask.palletsprojects.com/en/3.0.x/)" target="blank"><img align="center"
-      src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png"
+      src="https://cdn.worldvectorlogo.com/logos/flask.svg"
       alt="Flask" height="40" width="40" /></a>
 
 <br>    
