@@ -33,7 +33,7 @@
 
 <br>
 
-<h3 align="left">Lenguajes:</h3>
+<h3 align="left">Lenguajes y Herramientas</h3>
 <p>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
@@ -54,6 +54,13 @@
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="Csharp"
       width="40" height="40" /> </a>
+      align="left">
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
+      src="https://cdn.worldvectorlogo.com/logos/flask.svg"
+      alt="Flask" height="40" width="40" /></a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
+      src="https://i.pinimg.com/736x/39/0c/ec/390cec3ff20d6649128eecc722193287.jpg"
+      alt="React" height="40" width="40" /></a>
       </p>
 
 <br>
@@ -66,16 +73,6 @@
       src="https://i.pinimg.com/564x/9f/2a/3d/9f2a3d2a77591992819af03a009751ed.jpg"
       alt="Github" height="40" width="40" /></a>
 
-<br>
-
-<h3 align ="left">Frameworks:</h3>
-<p align="left">
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
-      src="https://cdn.worldvectorlogo.com/logos/flask.svg"
-      alt="Flask" height="40" width="40" /></a>
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
-      src="https://i.pinimg.com/736x/39/0c/ec/390cec3ff20d6649128eecc722193287.jpg"
-      alt="React" height="40" width="40" /></a>
 
 <br>   
 
