@@ -66,7 +66,7 @@
 <br>
 <h3 align ="left">Frameworks:</h3>
 <p align="left">
-  <a href="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" target="blank"><img align="center"
+  <a href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" target="blank"><img align="center"
       src="https://www.hiclipart.com/free-transparent-background-png-clipart-luahu"
       alt="Flask" height="40" width="40" /></a>
 
