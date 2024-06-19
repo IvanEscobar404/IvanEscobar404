@@ -60,6 +60,6 @@
 <h3 align="left">Herramientas:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="blank"><img align="center"
-      src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)"
+      src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
       alt="GIT" height="30" width="40" /></a>
 
