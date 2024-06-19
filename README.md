@@ -69,9 +69,9 @@
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
       src="https://cdn.worldvectorlogo.com/logos/flask.svg"
       alt="Flask" height="40" width="40" /></a>
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
+  <!-- <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
       src="https://www.pngwing.com/en/free-png-cgbgg"
-      alt="React" height="40" width="40" /></a>
+      alt="React" height="40" width="40" /></a> -->
 
 <br>    
 <h3 align="left">Depurador:</h3>
