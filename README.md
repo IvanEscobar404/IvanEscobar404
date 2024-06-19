@@ -61,5 +61,5 @@
 <p align="left">
   <a href="https://git-scm.com/" target="blank"><img align="center"
       src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
-      alt="GIT" height="50" width="40" /></a>
+      alt="GIT" height="40" width="40" /></a>
 
