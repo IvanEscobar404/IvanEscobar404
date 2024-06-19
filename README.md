@@ -70,7 +70,7 @@
       src="https://cdn.worldvectorlogo.com/logos/flask.svg"
       alt="Flask" height="40" width="40" /></a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
-      src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png"
+      src="https://www.pngwing.com/en/free-png-cgbgg"
       alt="React" height="40" width="40" /></a>
 
 <br>    
