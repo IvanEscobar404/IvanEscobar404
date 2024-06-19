@@ -54,7 +54,6 @@
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="Csharp"
       width="40" height="40" /> </a>
-      align="left">
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
       src="https://cdn.worldvectorlogo.com/logos/flask.svg"
       alt="Flask" height="40" width="40" /></a>
