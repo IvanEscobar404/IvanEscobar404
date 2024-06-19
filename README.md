@@ -64,6 +64,13 @@
       alt="GIT" height="40" width="40" /></a>
 
 <br>
+<h3 align ="left">Frameworks:</h3>
+<p align="left">
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
+      src="https://www.hiclipart.com/free-transparent-background-png-clipart-luahu"
+      alt="Flask" height="40" width="40" /></a>
+</p>
+
 <h3 align="left">Depurador:</h3>
 <p align="left">
   <a href="https://www.postman.com/" target="blank"><img align="center"
