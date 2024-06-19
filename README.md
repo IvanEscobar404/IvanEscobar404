@@ -73,7 +73,7 @@
       src="https://cdn.worldvectorlogo.com/logos/flask.svg"
       alt="Flask" height="40" width="40" /></a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
-      src="https://i.pinimg.com/564x/f3/f9/d9/f3f9d9501ae3b221764346be36517e78.jpg"
+      src="https://i.pinimg.com/736x/39/0c/ec/390cec3ff20d6649128eecc722193287.jpg"
       alt="React" height="40" width="40" /></a>
 
 <br>    
