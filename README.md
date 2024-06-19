@@ -63,3 +63,10 @@
       src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
       alt="GIT" height="40" width="40" /></a>
 
+<br>
+<h3 align="left">Depurador:</h3>
+<p align="left">
+  <a href="https://www.postman.com/" target="blank"><img align="center"
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="POSTMAN" height="40" width="40" /></a>
+
