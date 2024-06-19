@@ -67,7 +67,7 @@
 <h3 align ="left">Frameworks:</h3>
 <p align="left">
   <a href="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://flask.palletsprojects.com/en/3.0.x/)" target="blank"><img align="center"
-      src="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://banner2.cleanpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg)"
+      src="https://banner2.cleanpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg"
       alt="Flask" height="40" width="40" /></a>
 
 <br>    
