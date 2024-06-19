@@ -66,9 +66,12 @@
 <br>
 <h3 align ="left">Frameworks:</h3>
 <p align="left">
-  <a href="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://flask.palletsprojects.com/en/3.0.x/)" target="blank"><img align="center"
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
       src="https://cdn.worldvectorlogo.com/logos/flask.svg"
       alt="Flask" height="40" width="40" /></a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img align="center"
+      src="https://iili.io/H7ALWtR.jpg"
+      alt="React" height="40" width="40" /></a>
 
 <br>    
 <h3 align="left">Depurador:</h3>
