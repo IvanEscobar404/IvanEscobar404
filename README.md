@@ -69,8 +69,8 @@
   <a href="https://banner2.cleanpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg" target="blank"><img align="center"
       src="https://www.hiclipart.com/free-transparent-background-png-clipart-luahu"
       alt="Flask" height="40" width="40" /></a>
-</p>
 
+<br>    
 <h3 align="left">Depurador:</h3>
 <p align="left">
   <a href="https://www.postman.com/" target="blank"><img align="center"
