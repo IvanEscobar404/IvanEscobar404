@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Escobar Ivan</h1>
-<h3 align="center">Estudiante de programación UTN Reconquista🌟.</h3>
+<h1 align="center">Hello 👋, I'm Escobar Ivan</h1>
+<h3 align="center">UTN Reconquista programming student 🌟.</h3>
 
 
 
@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 Actualmente estoy aprendiendo Flask con Python y otros lenguajes de programación.
+- 🌱 I am currently learning Flask with Python and other programming languages.
 
 - 📫 How to reach me **ivanescobargg@gmail.com**
 
@@ -33,7 +33,7 @@
 
 <br>
 
-<h3 align="left">Lenguajes y Herramientas</h3>
+<h3 align="left">Languages ​​and Tools</h3>
 <p>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
@@ -60,7 +60,7 @@
       </p>
 
 <br>
-<h3 align="left">Control de Versiones:</h3>
+<h3 align="left">Version control:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="blank"><img align="center"
       src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
