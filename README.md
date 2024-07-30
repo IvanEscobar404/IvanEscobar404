@@ -15,7 +15,7 @@
 
 <br>
 
-<h3 align="left">Contacto:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ivan-escobar-9063432a0/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -72,7 +72,7 @@
 
 <br>   
 
-<h3 align="left">Depurador:</h3>
+<h3 align="left">Scrubber:</h3>
 <p align="left">
   <a href="https://banner2.cleanpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg" target="blank"><img align="center"
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
