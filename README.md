@@ -35,7 +35,8 @@
 
 <h3 align="left">Languages ​​and Tools</h3>
 <p>  
-  
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="golang" width="40" heigth="40" /> </a> <a href="https://go.dev/" target="_blank" 
+                                                                                                                     rel="noreferrer">
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img
