@@ -69,7 +69,7 @@
       alt="django" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/start/"
     target="_blank" rel="noreferrer"> 
   
-      </p>
+</p>
 
 <br>
 <h3 align="left">Version control:</h3>
