@@ -64,6 +64,11 @@
   <img align="center"
       src="https://cdn.worldvectorlogo.com/logos/flask.svg"
       alt="Flask" height="40" width="40" /></a>
+<img
+      src="https://static.djangoproject.com/img/logos/django-logo-negative.png"
+      alt="django" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/start/"
+    target="_blank" rel="noreferrer"> 
+  
       </p>
 
 <br>
