@@ -35,9 +35,15 @@
 
 <h3 align="left">Languages ​​and Tools</h3>
 <p>  
-  <img 
-      src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="golang" 
-      width="40" heigth="40"  <a href="https://go.dev/" target="blank" rel="noreferrer"> <a/>
+  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+      
+  <img
+      src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" 
+    width="40" height="40" /> </a> <a href="https://fastapi.tiangolo.com/"
+    target="_blank" rel="noreferrer"> 
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> 
@@ -49,14 +55,16 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  
+  <img 
+      src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="golang" 
+      width="40" heigth="40" >  <a href="https://go.dev/" target="blank" rel="noreferrer"> <a/>
+      
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>
      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+  
   <img
       src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="Csharp"
       width="40" height="40" /> </a>
@@ -64,10 +72,7 @@
   <img align="center"
       src="https://cdn.worldvectorlogo.com/logos/flask.svg"
       alt="Flask" height="40" width="40" /></a>
-<img
-      src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
-      alt="FastAPI" width="40" height="40" /> </a> <a href="https://fastapi.tiangolo.com/"
-    target="_blank" rel="noreferrer"> 
+
   
 </p>
 
