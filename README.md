@@ -10,7 +10,7 @@
 
 - 🌱 I am currently learning Flask with Python and other programming languages.
 
-- 📫 How to reach me **ivanescobargg@gmail.com**
+- 📫 How to reach me **ivanescobargg@outlook.com**
 
 
 <br>
