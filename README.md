@@ -65,8 +65,8 @@
       src="https://cdn.worldvectorlogo.com/logos/flask.svg"
       alt="Flask" height="40" width="40" /></a>
 <img
-      src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
-      alt="django" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/start/"
+      src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"
+      alt="FastAPI" width="40" height="40" /> </a> <a href="https://fastapi.tiangolo.com/"
     target="_blank" rel="noreferrer"> 
   
 </p>
