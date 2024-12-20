@@ -33,7 +33,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
 <br><br>
 
-- 🔭 Currently I am still developing as a **backend developer**
+- 🔭 Currently I am still developing as a **Backend developer**
 
 - 🌱 I’m currently learning **FastAPI**
 
@@ -85,9 +85,9 @@
   </a>
 </p>
 
-- Cloud Servers
+<!-- - Cloud Servers -->
 <p align="left">
-  <a href="https://skillicons.dev">
+ <!-- <a href="https://skillicons.dev"> -->
     <!-- <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" /> -->
   </a>
 </p>
@@ -104,7 +104,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Certificates:</h3>
+<!-- <h3 align="left">Certificates:</h3>
 
 <p align="center">
 <img src="file:///C:/Users/Usuario/Downloads/CertificadoDeFinalizacion_Domina%20Python%20FastAPI.pdf"  width="100px" height="100px"></p>
@@ -118,7 +118,7 @@
  </div>
  <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
