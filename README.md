@@ -100,7 +100,6 @@
   </a>
 </p>
 
-<br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
