@@ -37,7 +37,7 @@
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](https://ivanescobar404.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Ivan' Space](https://ivanescobar404.github.io/Portfolio/)
 
 - 💬 Ask me about **Python, FastAPI and SQL**
 
