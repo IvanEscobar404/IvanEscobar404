@@ -65,7 +65,7 @@
 <p align="left">
  <!-- <a href="https://skillicons.dev"> -->
     <!-- <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" /> -->
-   <img src="https://skillicons.dev/icons?i=py,flask,fastapi,sql,golang" />
+   <img src="https://skillicons.dev/icons?i=py,flask,fastapi,golang" />
   </a>
 </p>
 
