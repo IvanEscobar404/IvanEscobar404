@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D4D16AQHPdesGkr7iTA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729257764723?e=1740009600&v=beta&t=Y84kn9o6m_tOyiJqFmSo2Jy_n5KMMV8PN9Tuw-jatPo)
+![logo](https://wallpapers.com/images/high/programming-hd-lightbulb-think-twice-code-once-f8y2yrdgsxv27eo1.webp)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Escobar Yair Ivan</h1>
