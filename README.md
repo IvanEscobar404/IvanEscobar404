@@ -1,131 +1,81 @@
-![logo](https://media.licdn.com/dms/image/v2/D4D16AQEz_vtcbClu6w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736814999003?e=1746662400&v=beta&t=FKrMjLJCRSs2tGfSpuKbOBn5RMke5dGoLOsKQSh5MME)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<h1 align="center">Hola 👋, Soy Escobar Ivan</h1>
+<h3 align="center">Técnico En Programación🌟.</h3>
 
-<h1 align="center">Hi 👋, I'm Escobar Yair Ivan</h1>
-<h3 align="center">A passionate Programmer from argentina</h3>
-<p align="center">University Technician in Programming, Passionate about technology, and especially for Backend development.🌐 💻 🛠️</p>
-<p align="center"> 
-<!-- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> -->
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
 
-<div align="center">
- <!-- <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" /> -->
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
-  <!-- <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" /> -->
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
- 
- <!--  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /> -->
- <!--  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /> -->
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <!-- <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" /> -->
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
- <!--  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" /> -->
-</div>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
-<br><br>
+<br>
 
-- 🔭 Currently I am still developing as a **Backend developer**
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m currently learning **FastAPI**
 
-- 👨‍💻 All of my projects are available at [Ivan' Space](https://ivanescobar404.github.io/Portfolio/)
-
-- 💬 Ask me about **Python, FastAPI and SQL**
+- 🌱 Desarrollador Python 🐍.
 
 - 📫 How to reach me **ivanescobargg@gmail.com**
 
-<!-- - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume) -->
-
-<!-- - ⚡ Fun fact **I think I'm funny** -->
 
 <br>
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Contacto:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ivanescobar404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/ivann.escobar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a> -->
+  <a href="https://www.linkedin.com/in/ivanescobar404/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ivann.escobar/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+ <a href="https://x.com/ImIv4n" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
 </p>
+
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">Lenguajes y Herramientas</h3>
+<p>  
+ <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> 
+  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> 
 
-<h3 align="left">Languages and Tools:</h3>
+ <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> 
+  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" /> </a> 
 
-- Backend
-<p align="left">
- <!-- <a href="https://skillicons.dev"> -->
-    <!-- <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" /> -->
-   <img src="https://skillicons.dev/icons?i=py,flask,fastapi,golang,csharp" />
-  </a>
+ 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+ <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a>
+
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+ <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> 
+      
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > 
+ <img
+     src="https://i.pinimg.com/736x/39/0c/ec/390cec3ff20d6649128eecc722193287.jpg"
+      alt="React" height="40" width="40" /></a>
+
 </p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-   <!-- <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" /> -->
-   <img src="https://skillicons.dev/icons?i=js,react,materialui" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-  <!--  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /> -->
-   <img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
-  </a>
-</p>
-
-<!-- - Cloud Servers -->
-<p align="left">
- <!-- <a href="https://skillicons.dev"> -->
-    <!-- <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" /> -->
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-   <!-- <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" /> -->
-   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
-  </a>
-</p>
-
-
-
-<!-- <h3 align="left">Certificates:</h3>
-
-<p align="center">
-<img src="file:///C:/Users/Usuario/Downloads/CertificadoDeFinalizacion_Domina%20Python%20FastAPI.pdf"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
-
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Activity:</h3>
-
-![Ivan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Ivan%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
-
 
 <br>
-<p align="right" > Created with 🧡 by <a href="https://ivanescobar404.github.io/Portfolio/">IvanEscobar404</a></p>
+<h3 align="left">Control de Versiones:</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="blank"><img align="center"
+      src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+      alt="GIT" height="40" width="40" /></a>
+  <a href="https://git-scm.com/" target="blank"><img align="center"
+      src="https://i.pinimg.com/564x/9f/2a/3d/9f2a3d2a77591992819af03a009751ed.jpg"
+      alt="Github" height="40" width="40" /></a>
+
+
+<br>   
+
+<h3 align="left">Depurador:</h3>
+<p align="left">
+  <a href="https://banner2.cleanpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg" target="blank"><img align="center"
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="POSTMAN" height="40" width="40" /></a>
