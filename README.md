@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Escobar Ivan</h1>
-<h3 align="center">Técnico En Programación🌟.</h3>
+<h1 align="center">Hola, Soy Ivan Escobar y tengo 20 años</h1>
+<h3 align="center">Técnico En Programación💻.</h3>
 
 
 
@@ -10,7 +10,7 @@
 
 - 🌱 Desarrollador Python 🐍.
 
-- 📫 How to reach me **ivanescobargg@gmail.com**
+- 📫 How to reach me **https://ivanescobar.ct.ws/**
 
 
 <br>
@@ -19,13 +19,13 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ivanescobar404/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="adam pithewan" height="30" width="40" /> </a>
   <a href="https://www.instagram.com/ivann.escobar/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="_._.adam._" height="30" width="40" /> </a>
  <a href="https://x.com/ImIv4n" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan" height="30" width="40" /> </a>
 </p>
 
 <br>
@@ -52,6 +52,11 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
  <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> 
+
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+ <img
+      src="https://skillicons.dev/icons?i=fastapi" alt="fastapi"
       width="40" height="40" /> </a> 
       
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" > 
