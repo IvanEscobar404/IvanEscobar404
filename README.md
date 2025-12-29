@@ -10,7 +10,7 @@
 
 - 🌱 Desarrollador Python 🐍.
 
-- 📫 How to reach me **https://ivanescobar.ct.ws/**
+- 📫 How to reach me **https://portfolio-react-ruby-phi.vercel.app/**
 
 
 <br>
