@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenido, Soy Ivan Escobar</h1>
-<h3 align="center">Técnico En Programación💻 Desarrollador de software e integraciones, automatizaciones con n8n e inteligencia artificial.</h3>
+<h3 align="center">💻 Desarrollador de software, integraciones y automatizaciones con n8n e inteligencia artificial.</h3>
 
 
 
