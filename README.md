@@ -1,5 +1,5 @@
-<h1 align="center">Hola, Soy Ivan Escobar y tengo 20 años</h1>
-<h3 align="center">Técnico En Programación💻.</h3>
+<h1 align="center">Bienvenido, Soy Ivan Escobar</h1>
+<h3 align="center">Técnico En Programación💻 Desarrollador de software e integraciones, automatizaciones con n8n e inteligencia artificial.</h3>
 
 
 
